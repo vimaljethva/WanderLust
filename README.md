@@ -80,15 +80,15 @@ Visit 👉 [http://localhost:8080](http://localhost:8080)
 
 ## 🚀 Features
 
-✅ User-friendly EJS UI with Bootstrap styling
-✅ Add, edit, and view listings dynamically
-✅ Store and retrieve data from MongoDB Atlas
-✅ Deployed on Render’s free hosting plan
-✅ MVC Architecture
-✅ Add user authentication (Login/Signup)
-✅ Organized folder structure (routes, views, models, public)
-✅ Integrate cloud image uploads (e.g., Cloudinary)
-✅ Implement review & rating system
+✅ User-friendly EJS UI with Bootstrap styling<br>
+✅ Add, edit, and view listings dynamically<br>
+✅ Store and retrieve data from MongoDB Atlas<br>
+✅ Deployed on Render’s free hosting plan<br>
+✅ MVC Architecture<br>
+✅ Add user authentication (Login/Signup)<br>
+✅ Organized folder structure (routes, views, models, public)<br>
+✅ Integrate cloud image uploads (e.g., Cloudinary)<br>
+✅ Implement review & rating system<br>
 
 ---
 
