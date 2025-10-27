@@ -12,16 +12,7 @@ Users can explore, list, and book properties from around the world — from cozy
 
 ![Alt text](index.png)
 
-#### 🧳 Listing Details
 
-![Alt text](individualListing.png)
-
-#### ✏️ Add New Listing
-
-![Alt text](createlist.png)
-
-#### Edit Listing
-![Alt text](editListing.png)
 
 ---
 
