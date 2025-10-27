@@ -10,7 +10,7 @@ Users can explore, list, and book properties from around the world — from cozy
 
 #### 🏠 Home Page
 
-![Alt text](index.png)
+![Alt text](indexcompress.png)
 
 
 
