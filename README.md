@@ -10,15 +10,18 @@ Users can explore, list, and book properties from around the world — from cozy
 
 #### 🏠 Home Page
 
-![Alt text](home.png)
+![Alt text](index.png)
 
 #### 🧳 Listing Details
 
-![Alt text](listing_details.png)
+![Alt text](individualListing.png)
 
 #### ✏️ Add New Listing
 
-![Alt text](add_listing.png)
+![Alt text](createlist.png)
+
+#### Edit Listing
+![Alt text](editListing.png)
 
 ---
 
@@ -94,7 +97,5 @@ Visit 👉 [http://localhost:8080](http://localhost:8080)
 
 ## 🧩 Future Enhancements
 * Improve responsive design for mobile
-* More Features
   
-
 ---
