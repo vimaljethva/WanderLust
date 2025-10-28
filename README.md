@@ -62,7 +62,7 @@ npm install
 
 ```
 
-#### add .env file at root directory of your project (where your package.json file is location)
+#### 4.add .env file at root directory of your project (where your package.json file is location)
 ```
 # Cloudinary Configuration
 CLOUD_NAME=your_cloud_name_here
@@ -80,13 +80,13 @@ SECRET=your_secret_key_here
 
 
 
-**4. Start the application:**
+**5. Start the application:**
 
 ```bash
 node app.js
 ```
 
-**5. Open in your browser:**
+**6. Open in your browser:**
 Visit 👉 [http://localhost:8080](http://localhost:8080)
 
 ---
