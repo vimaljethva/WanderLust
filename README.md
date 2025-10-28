@@ -62,7 +62,7 @@ npm install
 
 ```
 
-#### 4.add .env file at root directory of your project (where your package.json file is location)
+#### 4. Add .env file at root directory of your project (where your package.json file is location)
 ```
 # Cloudinary Configuration
 CLOUD_NAME=your_cloud_name_here
