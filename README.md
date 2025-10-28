@@ -58,7 +58,7 @@ cd Wanderlust
 **3. Install dependencies:**
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 
 ```
 
