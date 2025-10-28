@@ -13,6 +13,22 @@ Users can explore, list, and book properties from around the world — from cozy
 ![Alt text](indexcompress.png)
 
 
+#### 🏠 Add Listing Page
+
+![Alt text](createlist.png)
+
+### 📸 Screenshots
+
+#### 🏠 Edit Listing Page
+
+![Alt text](editListing.png)
+
+#### 🏠 Show Individual Listing Page
+
+![Alt text](individualListing.png)
+
+
+
 
 ---
 
