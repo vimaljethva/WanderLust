@@ -60,7 +60,10 @@ cd Wanderlust
 ```bash
 npm install
 
-& add .env file at root directory of your project (where your package.json file is location)
+```
+
+** add .env file at root directory of your project (where your package.json file is location)**
+```
 # Cloudinary Configuration
 CLOUD_NAME=your_cloud_name_here
 CLOUD_API_KEY=your_api_key_here
@@ -71,20 +74,10 @@ ATLASDB_URL=your_mongodb_connection_string_here
 
 # Application Secret (used for JWT or session signing)
 SECRET=your_secret_key_here
-
-A demo .env file:
-CLOUD_NAME=nsdjnsvsnn
-CLOUD_API_KEY=723829353663
-CLOUD_API_SECRET=nwefnwo3nrf3384e
-
-# 🍃 MongoDB Atlas Connection
-ATLASDB_URL=mongodb+srv://xyz-student:w3r38rh29wh3h@cluster0.cjwa7pg.mongodb.net/?appName=Cluster0
-
-# 🔐 Application Secret
-SECRET=wownfnnfon
-
-
 ```
+
+
+
 
 
 **4. Start the application:**
